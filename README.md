@@ -1,3 +1,4 @@
+# version:1.0.2
 # Python(Version 3.7.0)+Django(Version 2.0.4)+Sqlite 
 # demo project on python django 
 # Funtionality added in this project
